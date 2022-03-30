@@ -1,3 +1,4 @@
+title:: simpread-如何高效入门 #Logseq ？
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/68684)
 
 > 用一系列简短的视频教程，助你使用 Logseq 这款强大而免费的细粒度双链笔记工具。
@@ -85,11 +86,10 @@ Roam Research 一切正常。
 ## **延伸阅读**
 
 你可能也会对以下话题感兴趣。点击链接就可以查看。
-
 - [如何高效实践卡片式写作？](https://sspai.com/post/59314)
 - [如何用卡片法写论文？](https://sspai.com/post/59314)
 - [如何用好 Roam Research ？（三）：Roam 不是卡片盒](https://sspai.com/post/67087)
 - [Hook：如何高效双向链接不同类型的信息资源？](https://sspai.com/post/68344)
 - [导师究竟有啥用？](https://sspai.com/post/66267)
-
-![](https://cdn.sspai.com/article/01730fbc-b7f9-157f-853f-135ba65e4939.jpg?imageMogr2/auto-orient/quality/95/thumbnail/!200x268r/gravity/Center/crop/200x268/interlace/1) 科研新手全面入坑指南 用科学的方法，让科研更高效，帮你迅速上手从选题、知识储备、文献研究到论文创作和答辩的科研全流程。 ¥23.20 ¥29.00 仅限 03.21-03.31 去购买
+  
+  ![](https://cdn.sspai.com/article/01730fbc-b7f9-157f-853f-135ba65e4939.jpg?imageMogr2/auto-orient/quality/95/thumbnail/!200x268r/gravity/Center/crop/200x268/interlace/1) 科研新手全面入坑指南 用科学的方法，让科研更高效，帮你迅速上手从选题、知识储备、文献研究到论文创作和答辩的科研全流程。 ¥23.20 ¥29.00 仅限 03.21-03.31 去购买

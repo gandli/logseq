@@ -1,3 +1,4 @@
+title:: simpread-App+1 _ 卡片笔记纷至沓来，#Logseq 凭何在我眼中独树一帜？
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/68459)
 
 > 集 Roam Research、Workflowy、TiddlyWiki 优点于一身的开源笔记软件 Logseq 值得你来一试。
@@ -71,7 +72,6 @@ Logseq 提供了使用第三方主题和插件的功能。在设置中打开「�
 许多用户在使用卡片盒笔记法时，都会将每日笔记页面作为笔记的源头，记录自己在这一天里阅读的文章，了解到的知识，完成的任务等等，再将这些内容与之前积攒的笔记进行链接。Logseq 内置了一套专门用于记录 Todo 的标记语言，通过 LATER, NOW, DONE 等关键词来表示一项任务的状态和优先级，还可以通过指令为任务安排时间，死线，定期重复等等。
 
 ![](https://cdn.sspai.com/2021/08/25/b905d7bc86d87084a071d4ae0046bf50.png)Logseq 支持的 Todo 标记语法
-
 ### 闪卡
 
 Logseq 内置的闪卡（flashcard）制作功能，可以很方便地将已有的笔记转化成闪卡，帮助记忆内容。目前 Logseq 支持制作问答和填空格式的闪卡。制作问答格式的闪卡，只需要用 #card 来标记一个内容块就可以了。问答格式的闪卡将默认把这一块的第一行作为问题，其他内容作为答案。制作填空格式的闪卡，则需要用到 /cloze 指令。
@@ -81,13 +81,11 @@ Logseq 内置的闪卡（flashcard）制作功能，可以很方便地将已有�
 制作完闪卡之后，在功能菜单里选择「所有卡片」就可以开始学习了。
 
 ![](https://cdn.sspai.com/2021/08/25/eefc91bda264769f226b4f7aa303051b.png)学习闪卡
-
 ### PDF 高亮
 
 Logseq 支持通过拖拽或者 /upload an asset 指令来导入 PDF 文件，并且可以通过内置的 PDF 阅读器来浏览文件和高亮内容。高亮的内容可以直接在笔记里引用。点击一条引用，Logseq 还会自动打开对应的 PDF 文件并且跳转到相应的位置。
 
 ![](https://cdn.sspai.com/2021/08/25/3fbf36233ba2835a6378bdff8c684000.png)PDF 阅读器和高亮引用
-
 ### 更多
 
 除了上面提到的这些功能以外，Logseq 还内置了基于 reveal.js 的幻灯片制作、基于 Excalidraw 的绘画功能、还有与 Zotero 的整合，可以将 Zotero 里收集的文献导入到 Logseq 里方便链接。在 Logseq 的 roadmap 上可以看到，开发者计划在将来提供功能更完善的图谱，Anki 闪卡导入，白板，端对端加密同步等功能，如果你对这些功能感兴趣，可以持续关注这款产品。
