@@ -28,7 +28,7 @@ title:: simpread-App+1 \_ 卡片笔记纷至沓来，#Logseq 凭何在我眼中�
 
 ## 安装和设置
 
-Logseq 的本地客户端目前支持 #macOS 、#Windows 和 #Linux ，可以在它的 [官网](https://logseq.com) 上下载。如果想将 Logseq 部署在 Github 中来同步数据的话，可以查看开发者提供的 [这篇教程](https://logseq.com/blog/about)。
+Logseq 的本地客户端目前支持 #macOS 、 #Windows 和 #Linux ，可以在它的 [官网](https://logseq.com) 上下载。如果想将 Logseq 部署在 Github 中来同步数据的话，可以查看开发者提供的 [这篇教程](https://logseq.com/blog/about)。
 
 安装完应用，先看图标。Logseq 的图标非常的简单。在和 Fission 的 [采访](https://fission.codes/blog/overview-of-logseq-by-tienson-qin/) 中，Logseq 的开发者说图标的灵感来自脚印，因为不管是知识的收集还是分享，都是在你的生命中留下印记。
 
