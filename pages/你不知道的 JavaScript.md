@@ -29,3 +29,4 @@
 		  // foo 被调用了多少次？
 		  console.log( foo.count ); // 0 -- WTF?
 		  ```
+-
