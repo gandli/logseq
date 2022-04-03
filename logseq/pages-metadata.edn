@@ -13,12 +13,18 @@
  {:block/name "card",
   :block/created-at 1648962270373,
   :block/updated-at 1648962270373}
+ {:block/name "contents",
+  :block/created-at 1648962469618,
+  :block/updated-at 1648962469618}
  {:block/name "doing",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
  {:block/name "done",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
+ {:block/name "favorites",
+  :block/created-at 1648962469618,
+  :block/updated-at 1648962469618}
  {:block/name "in-progress",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
