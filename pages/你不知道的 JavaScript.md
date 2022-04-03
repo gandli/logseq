@@ -30,5 +30,9 @@
 		  console.log( foo.count ); // 0 -- WTF?
 		  ```
 - [:a {:href "http://github.com"} "GitHub"]
+- <a href="http://github.com">GitHub</a>
+- [:div (list "Hello" "World")]
+- [:div "Hello" "World"]
+- [:ul (for [x coll] [:li x])]
 -
 -
