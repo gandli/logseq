@@ -1,6 +1,6 @@
 [{:block/name "2022年03月31日",
   :block/created-at 1648661002511,
-  :block/updated-at 1648661002511}
+  :block/updated-at 1648691124445}
  {:block/name "a",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
@@ -34,6 +34,9 @@
  {:block/name "inbox",
   :block/created-at 1648655178326,
   :block/updated-at 1648655178326}
+ {:block/name "javascript",
+  :block/created-at 1648690996752,
+  :block/updated-at 1648690996752}
  {:block/name "later",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
@@ -69,7 +72,7 @@
   :block/updated-at 1648656084012}
  {:block/name "simpread-app+1 __ 卡片笔记纷至沓来，_logseq 凭何在我眼中独树一帜？",
   :block/created-at 1648656412793,
-  :block/updated-at 1648656412793}
+  :block/updated-at 1648691085455}
  {:block/name "simpread-双链笔记软件推荐：logseq 和它的五种用法",
   :block/created-at 1648656092025,
   :block/updated-at 1648656092025}
