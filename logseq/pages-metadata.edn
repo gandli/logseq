@@ -1,6 +1,6 @@
-[{:block/name "2022年03月31日",
-  :block/created-at 1648661002511,
-  :block/updated-at 1648691124445}
+[{:block/name "2022年04月03日",
+  :block/created-at 1648962210735,
+  :block/updated-at 1648962422468}
  {:block/name "a",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
@@ -11,95 +11,29 @@
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
  {:block/name "card",
-  :block/created-at 1648655268226,
-  :block/updated-at 1648655268226}
- {:block/name "contents",
-  :block/created-at 1648655268226,
-  :block/updated-at 1648655268226}
+  :block/created-at 1648962270373,
+  :block/updated-at 1648962270373}
  {:block/name "doing",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
  {:block/name "done",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
- {:block/name "favorites",
-  :block/created-at 1648655268226,
-  :block/updated-at 1648655268226}
- {:block/name "github",
-  :block/created-at 1648656426994,
-  :block/updated-at 1648656426994}
  {:block/name "in-progress",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
- {:block/name "inbox",
-  :block/created-at 1648655178326,
-  :block/updated-at 1648655178326}
- {:block/name "javascript",
-  :block/created-at 1648690996752,
-  :block/updated-at 1648690996752}
  {:block/name "later",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
- {:block/name "linux",
-  :block/created-at 1648656614440,
-  :block/updated-at 1648656614440}
- {:block/name "linux，可以在它的",
-  :block/created-at 1648656423701,
-  :block/updated-at 1648656423701}
- {:block/name "logseq",
-  :block/created-at 1648655178356,
-  :block/updated-at 1648655178356}
- {:block/name "macos",
-  :block/created-at 1648657008545,
-  :block/updated-at 1648657008545}
- {:block/name "macos、",
-  :block/created-at 1648656423702,
-  :block/updated-at 1648656423702}
- {:block/name "mar 30th, 2022",
-  :block/created-at 1648653368112,
-  :block/updated-at 1648655645333}
- {:block/name "mar 31st, 2022",
-  :block/created-at 1648656001442,
-  :block/updated-at 1648660757890}
  {:block/name "now",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
- {:block/name "obsidian",
-  :block/created-at 1648656395373,
-  :block/updated-at 1648656395373}
- {:block/name "simpread-app+1 _ 卡片笔记纷至沓来，_logseq 凭何在我眼中独树一帜？",
-  :block/created-at 1648656084012,
-  :block/updated-at 1648656084012}
- {:block/name "simpread-app+1 __ 卡片笔记纷至沓来，_logseq 凭何在我眼中独树一帜？",
-  :block/created-at 1648656412793,
-  :block/updated-at 1648691085455}
- {:block/name "simpread-双链笔记软件推荐：logseq 和它的五种用法",
-  :block/created-at 1648656092025,
-  :block/updated-at 1648656092025}
- {:block/name "simpread-如何高效入门 _logseq ？",
-  :block/created-at 1648656072495,
-  :block/updated-at 1648656072495}
- {:block/name "simpread-简悦 + _logseq 个人知识库搭建 _ 从零开始完全指南",
-  :block/created-at 1648656054409,
-  :block/updated-at 1648656054409}
- {:block/name "simpread-简悦 + logseq 个人知识库搭建 __ 从零开始完全指南",
-  :block/created-at 1648656395405,
-  :block/updated-at 1648656395405}
  {:block/name "todo",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
- {:block/name "todoist",
-  :block/created-at 1648660714930,
-  :block/updated-at 1648660714930}
- {:block/name "todoist ",
-  :block/created-at 1648660540366,
-  :block/updated-at 1648660540366}
  {:block/name "wait",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
  {:block/name "waiting",
-  :block/created-at 1648653409114,
-  :block/updated-at 1648653409114}
- {:block/name "windows",
-  :block/created-at 1648656423701, 
-  :block/updated-at 1648656423701}]
+  :block/created-at 1648653409114, 
+  :block/updated-at 1648653409114}]
