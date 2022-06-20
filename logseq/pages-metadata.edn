@@ -3,7 +3,7 @@
   :block/updated-at 1655708691893}
  {:block/name "2022年06月20日",
   :block/created-at 1655708601410,
-  :block/updated-at 1655708601410}
+  :block/updated-at 1655708831617}
  {:block/name "@app+1 | 卡片笔记纷至沓来，logseq 凭何在我眼中独树一帜？ - 少数派",
   :block/created-at 1655708689100,
   :block/updated-at 1655708689100}
@@ -61,6 +61,12 @@
  {:block/name "in-progress",
   :block/created-at 1648653409114,
   :block/updated-at 1648653409114}
+ {:block/name "javascript",
+  :block/created-at 1655708832654,
+  :block/updated-at 1655708832654}
+ {:block/name "javascript ",
+  :block/created-at 1655708790375,
+  :block/updated-at 1655708790375}
  {:block/name "jianguoyun",
   :block/created-at 1655708692824,
   :block/updated-at 1655708692824}
